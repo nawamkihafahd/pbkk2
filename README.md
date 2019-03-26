@@ -1,4 +1,4 @@
-# pbkk2
+# PBKK Tugas 2
 Tugas 2 PBKK Spring-MVC
 
 Dhafa Hikmawan - 05111640000124
