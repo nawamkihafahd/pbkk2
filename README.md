@@ -4,8 +4,14 @@ Tugas 2 PBKK Spring-MVC
 Entry data Security baru untuk kebun binatang
 
 Gate : Gerbang yang dijaga saat shift menetap
+
+
 Patrol Sector : Sektor yang dipatrol security saat shift patrol
+
+
 Name : Nama security
+
+
 ID : ID security
 
 Halaman Form
